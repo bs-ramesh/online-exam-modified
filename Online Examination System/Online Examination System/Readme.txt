@@ -1,34 +1,41 @@
-PHP PAANO BA MAG DOWNLOAD NG "FREE SOURCE CODE"
-FIRST DOWNLOAD
+
+Instructions to run Online Examination System project
+
+1.Install xampp application on your PC amd start Apache and MySQLserver 
+
+2. Unzip "Online Examination System" file
+
+3. Extract the file and copy "Online Examination System" folder to htdocs folder in xampp folder
+
+4. Open your browser and provide "http://localhost/phpmyadmin/" as URL to open phpmyadmin page
+
+5. Create a database with name onex 
+
+6. Import onex.sql file(given inside the zip package in database file folder)
+
+7. Run the script http://localhost/Online Examination System to login as user
+
+8. Run the script http://localhost/Online Examination System 1/Online Examination System 1/adminpanel/admin.php to login as admin
 
 
-1.XAMPP
-
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
-
-3.ITO YONG SOURCE CODE NA IBIBIGAY KO 
-     "Online Examination System"
-
-4. Download the zip file/ download din ng winrar
-
-5. Extract the file and copy "Online Examination System" folder
-
-6.Paste inside root directory/ kayo nakakaalam kung sa local disk C: drive D: sa akin drive E: naka install ang xammp kayo doon ko paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name cee_db
-
-6. Import cee_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/Online Examination System
-
-lahat ng ito ituturo ko
 
 admin
-Username: admin@username
-Password: admin@password
+Username: admin123
+Password: admin123
 
 user
-Username:admin@password
-Password:jane
+USN: (provide USN)
+Password: (Student`s Date of birth with only ddmm)
+
+
+
+Tools used in the project
+
+Front end
+1. HTML
+2. CSS
+3. Javascript
+
+Back end
+1. MySQL
+2. PHP  
