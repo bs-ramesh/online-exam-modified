@@ -9,7 +9,7 @@ Instructions to run Online Examination System project
 
 4. Open your browser and provide "http://localhost/phpmyadmin/" as URL to open phpmyadmin page
 
-5. Create a database with name onex 
+5. Create a database with name newonlineex 
 
 6. Import onex.sql file(given inside the zip package in database file folder)
 
